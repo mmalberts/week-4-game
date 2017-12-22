@@ -27,18 +27,12 @@ p {
 	border: 1px solid #bababa;
 }
 
-.target {
-	background: #ffffff;
-	border-radius: 15px;
-	border: 1px solid #bababa;
-	padding: 2%;
-}
-
 .winloss {
 	background: #ffffff;
 	border-radius: 15px;
 	border: 1px solid #bababa;
 	padding: 2%;
+	text-align: center;
 }
 
 .img {
@@ -48,15 +42,12 @@ p {
 	border: 1px solid #bababa;
 }
 
-.score {
+.score,
+.target {
 	background: #ffffff;
 	border-radius: 15px;
 	border: 1px solid #bababa;
 	padding: 2%;
-}
-
-#target-number,
-#current-score {
 	text-align: center;
 	font-family: 'Amita', cursive;
 }
